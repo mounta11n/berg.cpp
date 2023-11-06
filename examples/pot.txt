@@ -1,0 +1,18 @@
+Loading texts from sample_client_texts.txt...
+Loaded 1738 lines.
+Starting with a test query "Should I get health insurance?"
+Closest texts:
+1. Can I sign up for Medicare Part B if I am working and have health insurance through an employer?
+ (similarity score: 0.4861)
+2. Will my Medicare premiums be higher because of my higher income?
+ (similarity score: 0.4552)
+3. Should I sign up for Medicare Part B if I have Veterans' Benefits?
+ (similarity score: 0.4427)
+Enter a text to find similar texts (enter 'q' to quit): Closest texts:
+1. The survey of 60,000 people , conducted in 2001 and 2002 , found 91 percent of commuters use their own car or truck .
+ (similarity score: 0.4453)
+2. The driver of the truck escaped and is now being sought by the police , Supoyo said .
+ (similarity score: 0.4099)
+3. SUVs parked on residential streets in Monrovia were tagged with " ELF " and other slogans , and another was set ablaze in front of a house , Sgt. Tom Wright said .
+ (similarity score: 0.3764)
+Enter a text to find similar texts (enter 'q' to quit): 
