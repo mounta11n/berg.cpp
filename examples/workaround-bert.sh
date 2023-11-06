@@ -1,0 +1,1 @@
+tail -f cane.txt | python3 sample_client.py 8689 > pot.txt

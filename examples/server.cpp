@@ -21,6 +21,19 @@ typedef int socklen_t;
 #define SOCKET_HANDLE int
 #endif
 
+#include <fstream>
+#include <vector>
+#include <string>
+
+std::vector<std::string> load_texts(const std::string& filename) {
+    std::ifstream file(filename);
+    std::vector<std::string> texts;
+    std::string line;
+    while (std::getline(file, line)) {
+        texts.push_back(line);
+    }
+    return texts;
+}
 
 
 std::string receive_string(SOCKET_HANDLE socket) {
